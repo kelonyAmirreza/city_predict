@@ -1,0 +1,17 @@
+{
+    "name": "rome",
+    "version": "1.0.0",
+    "main": "main.js",
+    "author": "kelony",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/node": "^20.1.4",
+        "axios": "^1.4.0",
+        "ts-node": "^10.9.1",
+        "typescript": "^5.0.4"
+    },
+    "scripts": {
+        "build": "tsc",
+        "start": "ts-node ./src/main.ts"
+    }
+}

@@ -1,0 +1,1 @@
+{"Import price index - monthly data":{"id":"143_222","name":"Import price index - monthly data","agencyID":"IT1","version":"1.0","isFinal":false,"urn":"urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IT1:143_222(1.0)","structure":{"urn":"urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=IT1:DCSC_PREIMPIND(1.0)"}}}
